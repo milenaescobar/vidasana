@@ -1,4 +1,4 @@
-## 5. Hidratación Adecuada
+## Hidratación Adecuada
 
 La hidratación es uno de los aspectos más cruciales y a menudo subestimados de una vida sana. El agua es esencial para el funcionamiento adecuado del cuerpo, ya que interviene en procesos vitales como la regulación de la temperatura, la eliminación de toxinas, la digestión y el transporte de nutrientes a las células. Mantenerse bien hidratado es fundamental para la salud física y mental, y la deshidratación, incluso leve, puede afectar negativamente el rendimiento físico y cognitivo.
 
