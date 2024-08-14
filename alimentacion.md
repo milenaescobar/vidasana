@@ -6,3 +6,4 @@ Es importante prestar atención a las porciones y evitar el consumo excesivo de 
 
 Otro consejo es planificar las comidas y optar por cocinar en casa siempre que sea posible. Esto te permite controlar los ingredientes y las porciones, además de reducir la ingesta de alimentos poco saludables. [Beber suficiente agua](hidratacion.md) también es crucial para mantener una buena salud
 , ya que el agua es esencial para casi todos los procesos del cuerpo, incluyendo la digestión y la regulación de la temperatura.
+(Alimentacionsaludable.jpg)
