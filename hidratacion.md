@@ -7,3 +7,4 @@ Para garantizar una hidratación adecuada, es recomendable consumir al menos och
 Además del agua, otras bebidas como infusiones de hierbas, y alimentos con alto contenido de agua, como frutas y verduras (por ejemplo, sandía, pepino y naranjas), también contribuyen a la hidratación. Sin embargo, es recomendable limitar el consumo de bebidas azucaradas y con cafeína, ya que pueden tener un efecto diurético, incrementando la pérdida de agua.
 
 En situaciones de mayor necesidad de líquidos, como durante el ejercicio intenso o en climas calurosos, es crucial aumentar la ingesta de agua para prevenir la deshidratación. La hidratación no solo mejora la función física y mental, sino que también contribuye a la salud de la piel, ayuda en la digestión y mantiene el equilibrio adecuado de electrolitos en el cuerpo. Por lo tanto, establecer el hábito de mantenerse bien hidratado es una parte fundamental de un estilo de vida saludable.
+(Hidratacion.jpeg)
