@@ -6,4 +6,4 @@ Incorporar el ejercicio en la rutina diaria puede parecer un desafío, pero es m
 
 Otra clave es la constancia. Empezar poco a poco y aumentar gradualmente la intensidad y duración del ejercicio puede ayudar a evitar lesiones y mantener la motivación. Además, integrar pequeños cambios en tu rutina diaria, como usar las escaleras en lugar del ascensor o caminar en lugar de conducir, puede aumentar tu nivel de actividad física sin necesidad de ir al gimnasio.
 
-A continuación puedes revisar los diferentes [niveles de actividad física](Nivelesdeactividadfísica.csv)
+A continuación puedes revisar los diferentes [niveles de actividad física](Niveles de actividad física.csv)
