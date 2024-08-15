@@ -6,4 +6,4 @@ Existen diversas técnicas para manejar el estrés, entre las que destacan la me
 
 Además, es importante mantener un equilibrio entre el trabajo y la vida personal, reservando tiempo para actividades de ocio y socialización. Hablar sobre tus preocupaciones con amigos o familiares, o incluso con un terapeuta, puede proporcionar un alivio emocional significativo. Finalmente, mantener una perspectiva positiva y enfocarse en lo que puedes controlar, en lugar de lo que no, es clave para reducir los niveles de estrés.
 
-En resumen, cuidar del sueño, [el ejercicio](ejercicio.md), la alimentación y el manejo del estrés son prácticas esenciales para llevar una vida sana. Al adoptar y mantener estos hábitos, puedes mejorar tu salud general, prevenir enfermedades y disfrutar de una vida más equilibrada y feliz. 
+En resumen, cuidar del sueño, el ejercicio, la alimentación y el manejo del estrés son prácticas esenciales para llevar una vida sana. Al adoptar y mantener estos hábitos, puedes mejorar tu salud general, prevenir enfermedades y disfrutar de una vida más equilibrada y feliz. 
