@@ -5,11 +5,11 @@ El término *Estilo de vida saludable* hace referencia al conjunto de actitudes 
 
 Es importante tomar en cuenta que la información presentada solo es una guía.
 
-![Vida saludable](/imagenes/primera_imagen.jpeg)
-
-
 Toda información deberá ser validada por un médico 
+
 
 Te detallamos una lista de los consejos que puedes hacer para llevar un estilo de vida saludable:
 
 - [Alimentación saludable](alimentacion.md)
+=======
+![Vida saludable](/imagenes/primera_imagen.jpeg)
