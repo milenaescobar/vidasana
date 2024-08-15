@@ -10,6 +10,6 @@ Toda información deberá ser validada por un médico
 
 Te detallamos una lista de los consejos que puedes hacer para llevar un estilo de vida saludable:
 
-- [Alimentación saludable](alimentacion.md)
-=======
+ [Alimentación saludable](alimentacion.md)
+
 ![Vida saludable](/imagenes/primera_imagen.jpeg)
