@@ -4,3 +4,4 @@ Llevar una *dieta equilibrada* es fundamental para una vida sana. Una alimentaci
 
 Es importante prestar atención a las porciones y evitar el consumo excesivo de azúcares, grasas saturadas y alimentos procesados, que pueden llevar al aumento de peso y otros problemas de salud. Incorporar una variedad de alimentos en la dieta asegura la ingesta de diferentes nutrientes esenciales. Por ejemplo, consumir una amplia gama de frutas y verduras garantiza la ingesta de vitaminas, minerales y antioxidantes que protegen el cuerpo de daños celulares.
 
+![Alimentación Saludable](imagenes/Alimentacionsaludable.jpg)
