@@ -9,3 +9,4 @@ Otra clave es la constancia. Empezar poco a poco y aumentar gradualmente la inte
 ![Ejercicio](/imagenes/Ejercicio.jpeg)
 
 A continuación puedes revisar los diferentes [niveles de actividad física](nivelesactividadfisica.csv)
+
